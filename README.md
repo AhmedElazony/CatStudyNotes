@@ -1,4 +1,4 @@
 # Cat Study Notes
 
 # Database Tasks
-* [Problem1 Code](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=false)
+* [Problem1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/SQLProblem1.sql)
