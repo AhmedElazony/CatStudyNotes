@@ -1,5 +1,5 @@
 # Cat Study Notes
-
+----
 # Database Tasks
 
 ## SQL Code Tasks:
