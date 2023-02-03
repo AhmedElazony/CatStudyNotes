@@ -1,8 +1,12 @@
 # Cat Study Notes
 
 # Database Tasks
+## SQL Code Tasks (first one hour): 
 * [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
 * [Problem 2 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem2.sql)
 * [Problem 3 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem3.sql)
 * [Problem 4 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem4.sql)
 * [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem5.sql)
+
+## CMU Lectures Summaries:
+* [Lecture 1](https://www.notion.so/ahmedwael/CMU-Lecture-1-46b93657f76c4e49a8d8d7e916dbd338)
