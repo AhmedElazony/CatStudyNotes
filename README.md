@@ -1,7 +1,8 @@
 # Cat Study Notes
 
 # Database Tasks
-## SQL Code Tasks (first one hour): 
+## SQL Code Tasks:
+### First week: 
 * [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
 * [Problem 2 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem2.sql)
 * [Problem 3 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem3.sql)
