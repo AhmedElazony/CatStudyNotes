@@ -13,7 +13,7 @@
 * [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem5.sql)
 ### Second week:
 
-* [Problem 1 Code]()
+* [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem1.sql)
 * [Problem 2 Code]()
 * [Problem 3 Code]()
 * [Problem 4 Code]()
