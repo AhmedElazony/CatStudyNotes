@@ -3,7 +3,7 @@
 # Database Tasks
 
 ## SQL Code Tasks:
-#### * [SQL Course Study Notes](https://www.notion.so/ahmedwael/SQL-Learning-e4afd70a6f774c87b5f6b26272aca061)
+#### => [SQL Course Study Notes](https://www.notion.so/ahmedwael/SQL-Learning-e4afd70a6f774c87b5f6b26272aca061)
 ### First week:
  
 * [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
