@@ -27,3 +27,5 @@
 
 ### First Week:
 * [Summary of first 2 hours](https://ahmedwael.notion.site/Database-Design-0037547e514c4e45bd103b3daca91e49)
+### Second Week:
+* [Summary of Second 2 hours](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49#5b47ec163b134b63a0a35d50cb46fcbb)
