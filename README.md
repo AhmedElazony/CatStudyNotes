@@ -14,10 +14,10 @@
 ### Second week:
 
 * [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem1.sql)
-* [Problem 2 Code]()
-* [Problem 3 Code]()
-* [Problem 4 Code]()
-* [Problem 5 Code]()
+* [Problem 2 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem2.sql)
+* [Problem 3 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem3.sql)
+* [Problem 4 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem4.sql)
+* [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem5.sql)
 
 ## CMU Lectures Summaries:
 * [Lecture 1](https://ahmedwael.notion.site/CMU-Lecture-1-46b93657f76c4e49a8d8d7e916dbd338)
