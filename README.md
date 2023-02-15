@@ -28,4 +28,6 @@
 ### First Week:
 * [Summary of first 2 hours](https://ahmedwael.notion.site/Database-Design-0037547e514c4e45bd103b3daca91e49)
 ### Second Week:
-* [Summary of Second 2 hours](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49#5b47ec163b134b63a0a35d50cb46fcbb)
+* [Summary of time from 2:00 to 4:00](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49#5b47ec163b134b63a0a35d50cb46fcbb)
+### Third Week:
+* [Summary of time from 4:00 to 6:00](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49?pvs=4#66c12617082f40609bb261c3d7001d82)
