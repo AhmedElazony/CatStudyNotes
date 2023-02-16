@@ -20,6 +20,10 @@
 * [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem5.sql)
 ### Week 3:
 * [Problem 1 'Employee Salaries'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/EmployeeSalaries.sql)
+* [Problem 2 'African Cities'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/AfricanCities.sql)
+* [Problem 3 'Population Census'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/PopulationCensus.sql)
+* [Problem 4 'Swap Salary' (LeetCode)](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/SwapSalary.sql)
+* [Problem 5 'Placements'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/Placements.sql)
 
 ## CMU Lectures Summaries:
 * [Lecture 1](https://ahmedwael.notion.site/CMU-Lecture-1-46b93657f76c4e49a8d8d7e916dbd338)
