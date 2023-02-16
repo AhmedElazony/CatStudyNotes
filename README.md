@@ -4,6 +4,7 @@
 
 ## SQL Code Tasks:
 #### => [SQL Course Study Notes](https://www.notion.so/ahmedwael/SQL-Learning-e4afd70a6f774c87b5f6b26272aca061)
+### Solutions of SQL problems on HackerRank:
 ### Week 1:
  
 * [Problem 1 'Select All'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
