@@ -6,18 +6,18 @@
 #### => [SQL Course Study Notes](https://www.notion.so/ahmedwael/SQL-Learning-e4afd70a6f774c87b5f6b26272aca061)
 ### Week 1:
  
-* [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
-* [Problem 2 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem2.sql)
-* [Problem 3 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem3.sql)
-* [Problem 4 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem4.sql)
-* [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem5.sql)
+* [Problem 1 'Select All'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
+* [Problem 2 'Select By ID'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem2.sql)
+* [Problem 3 'Revising the Select Query I'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem3.sql)
+* [Problem 4 'Japanese Cities' Names'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem4.sql)
+* [Problem 5 'Higher Than 75 Marks'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem5.sql)
 ### Week 2:
 
-* [Problem 1 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem1.sql)
-* [Problem 2 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem2.sql)
-* [Problem 3 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem3.sql)
-* [Problem 4 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem4.sql)
-* [Problem 5 Code](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem5.sql)
+* [Problem 1 'Weather Observation Station 1'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem1.sql)
+* [Problem 2 'Weather Observation Station 3'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem2.sql)
+* [Problem 3 'Revising Aggregations - The Sum Function'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem3.sql)
+* [Problem 4 'Revising Aggregations - The Count Function'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem4.sql)
+* [Problem 5 'Type of Triangle'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem5.sql)
 ### Week 3:
 * [Problem 1 'Employee Salaries'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/EmployeeSalaries.sql)
 * [Problem 2 'African Cities'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/AfricanCities.sql)
