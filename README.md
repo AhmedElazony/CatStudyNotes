@@ -30,6 +30,7 @@
 * [Lecture 1](https://ahmedwael.notion.site/CMU-Lecture-1-46b93657f76c4e49a8d8d7e916dbd338)
 * [Lecture 2](https://ahmedwael.notion.site/CMU-Lecture-2-7951d4f5108545918569603ea5360a96)
 * [Lecture 3](https://ahmedwael.notion.site/CMU-Lecture-3-c10e2833c5b84ab8aad53afa76b7f10c)
+* [Lecture 4](https://ahmedwael.notion.site/CMU-Lecture-4-Database-Storage-II-d102a67f834d48b2a49f2b869a6a1dae)
 
 ## Database Design:
 
@@ -39,3 +40,5 @@
 * [Summary of time from 2:00 to 4:00](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49#5b47ec163b134b63a0a35d50cb46fcbb)
 ### Week 3:
 * [Summary of time from 4:00 to 6:00](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49?pvs=4#66c12617082f40609bb261c3d7001d82)
+### Week 4:
+* [Summary of from 6:00 To End](https://www.notion.so/ahmedwael/Database-Design-0037547e514c4e45bd103b3daca91e49?pvs=4#6a82631d0c294af1a463a52124dbc068)
