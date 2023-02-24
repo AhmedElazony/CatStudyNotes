@@ -25,6 +25,8 @@
 * [Problem 3 'Population Census'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/PopulationCensus.sql)
 * [Problem 4 'Swap Salary' (LeetCode)](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/SwapSalary.sql)
 * [Problem 5 'Placements'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/ThirdWeekProblems/Placements.sql)
+### Week 4:
+* [BigShop Schema Implementation files](https://github.com/AhmedElazony/CatStudyNotes/tree/master/DatabaseTasks/BigShop_Schema)
 
 ## CMU Lectures Summaries:
 * [Lecture 1](https://ahmedwael.notion.site/CMU-Lecture-1-46b93657f76c4e49a8d8d7e916dbd338)
