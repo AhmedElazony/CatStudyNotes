@@ -7,11 +7,11 @@
 ### Solutions of SQL problems on HackerRank:
 ### Week 1:
  
-* [Problem 1 'Select All'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem1.sql)
-* [Problem 2 'Select By ID'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem2.sql)
-* [Problem 3 'Revising the Select Query I'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem3.sql)
-* [Problem 4 'Japanese Cities' Names'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem4.sql)
-* [Problem 5 'Higher Than 75 Marks'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SQLProblem5.sql)
+* [Problem 1 'Select All'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/FirstWeekProblems/SQLProblem1.sql)
+* [Problem 2 'Select By ID'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/FirstWeekProblems/SQLProblem2.sql)
+* [Problem 3 'Revising the Select Query I'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/FirstWeekProblems/SQLProblem3.sql)
+* [Problem 4 'Japanese Cities' Names'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/FirstWeekProblems/SQLProblem4.sql)
+* [Problem 5 'Higher Than 75 Marks'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/FirstWeekProblems/SQLProblem5.sql)
 ### Week 2:
 
 * [Problem 1 'Weather Observation Station 1'](https://github.com/AhmedElazony/CatStudyNotes/blob/master/DatabaseTasks/SecondWeekProblems/Problem1.sql)
